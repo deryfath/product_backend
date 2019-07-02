@@ -1,0 +1,39 @@
+{"data" : [
+    {
+        "id": 1,
+        "name" : "Indomie",
+        "price": "2500",
+        "exp_date" : "2020-01-01"
+    },
+    { 
+        "id": 2,
+        "name" : "Supermie",
+        "price": "2500",
+        "exp_date" : "2020-11-01"
+    },
+    { 
+        "id": 3,
+        "name" : "Salamie",
+        "price": "2500",
+        "exp_date" : "2020-03-01"
+    },
+    { 
+        "id": 4,
+        "name" : "Sarimie",
+        "price": "2500",
+        "exp_date" : "2020-01-01"
+    },
+    { 
+        "id": 5,
+        "name" : "Samyang",
+        "price": "10000",
+        "exp_date" : "2020-12-01"
+    },
+    { 
+        "id": 6,
+        "name" : "Gaga",
+        "price": "2500",
+        "exp_date" : "2020-03-01"
+    }
+]
+}
